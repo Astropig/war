@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">war</string>
+    <string name="playerOneButton">Fight</string>
+    <string name="playerTwoButton">Fight</string>
+    <string name="todo">TODO</string>
+    <string name="bob">TODO</string>
+    <string name="message">Player 1 turn</string>
+    <string name="title_activity_menu_screen">MenuScreen</string>
+    <string name="armyOneText">Manpower:</string>
+    <string name="armyTwoText">Manpower:</string>
+</resources>
